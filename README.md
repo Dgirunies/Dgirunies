@@ -1,6 +1,6 @@
 ## Hi There! I'm Edneth Girão 👋
 <p>Eu sou o Edneth Girão, um entusiasta da Programação que vem programando há mais de 6 anos e a cada dia se dedica para aprender, contribuir e fazer a diferença. ☄️</p>
-<p>I'm Edneth Girão, a programming enthusiast 💫 who has been programming for over 7 years and is dedicated every day to learn, to contribute and to make the difference. ☄️</p>
+<p>I'm Edneth Girão, a programming enthusiast 💫 who has been programming for over 6 years and is dedicated every day to learn, to contribute and to make the difference. ☄️</p>
 
 <div>
   <a href="https://github.com/Dgirunies">
