@@ -2,7 +2,7 @@
 <p>Eu sou o Edneth Girão, um entusiasta da Programação que vem programando há mais de 6 anos e a cada dia se dedica para aprender, contribuir e fazer a diferença. ☄️</p>
 <p>I'm Edneth Girão, a programming enthusiast 💫 who has been programming for over 6 years and is dedicated every day to learn, to contribute and to make the difference. ☄️</p>
 
-- 💼 &nbsp; **SEEKING FOR JOBS OPPORTUNITIES**
+- 💼 &nbsp; **SEEKING FOR JOB OPPORTUNITIES**
   
  <div align="center">
   <a href="https://github.com/Dgirunies">
